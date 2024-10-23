@@ -1,2 +1,2 @@
 # john
-Hello world, this is my Profile
+Hello, this is some of my school work
